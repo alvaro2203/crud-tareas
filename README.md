@@ -1,2 +1,2 @@
 # crud-tareas
-Un crud para guardar manejar tareas sin BBDD
+Un crud para manejar tareas sin BBDD
